@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rennyrae
+- 👋 Hi, I’m @Rheno
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning html, Css and JavaScript
 - 💞️ I’m looking to collaborate on ...
